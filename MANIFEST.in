@@ -1,0 +1,2 @@
+include LICENSE requirements.txt VERSION README.md
+global-exclude *.pyc .DS_Store

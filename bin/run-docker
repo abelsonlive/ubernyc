@@ -1,0 +1,6 @@
+#!/bin/sh
+
+ubernyc \
+  -g /home/ubernyc/data/nynta.geojson \
+  -c /home/ubernyc/.config.yml \
+  -w 1

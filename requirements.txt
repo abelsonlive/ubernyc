@@ -1,0 +1,4 @@
+requests==2.9.1
+gevent==1.0.2
+s3plz==0.1.10
+PyYAML==3.11

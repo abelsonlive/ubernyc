@@ -1,0 +1,8 @@
+AWS_ACCESS_KEY_ID: 'AKIAI5GEFRRQ5MWTSOCA'
+AWS_SECRET_ACCESS_KEY: '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'
+
+UBER_SERVER_TOKENS:
+    - "StFuYQjocPNwvfsafas-h6q1hl7gtAOhTi8abm9EOaP"
+    - "cTcwmR0W0IMrfasdafHsCemWh2IG1U4K2l39ENp1"
+
+SLACK_WEBHOOK_URL: 'https://hooks.slack.com/services/T0fdsafd/Eq13AsRBfasfasdhX0YvAVoH'
